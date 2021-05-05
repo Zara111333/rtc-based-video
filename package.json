@@ -23,11 +23,7 @@
   "keywords": [
     "LiveStream",
     "Server"
-  ],
-  "author": "zahra jafari<jafari_z@auca.kg>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com"
+  ]
   },
   "homepage": "https://github"
 }
